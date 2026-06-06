@@ -2,7 +2,7 @@ body {
     font-family: "arial";
     text-align: center;
     color: white;
-    background-color: black;
+    background-color: hsl(45,12%,74%);
     padding: 0;
     margin: 0%;
 }
@@ -29,10 +29,7 @@ ul li a{
 h1{
     font-size: 32px;
 }
-img{
-    border: 5px solid #093ca8
-    ;
-}
+
 footer{
     padding: 30px ;
     border-top: 3px solid #ff00ea ;
